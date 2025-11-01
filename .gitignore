@@ -1,0 +1,10 @@
+.env
+# Audio files
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.mp
+
+__pycache__/
+.vscode/
