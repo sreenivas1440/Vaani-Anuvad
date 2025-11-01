@@ -42,6 +42,16 @@ Perfect for multilingual teams, businesses, educational institutions, and indivi
 
 ---
 
+## 🎬 Demo Videos
+
+### Watch Vaani Anuvad in Action 
+
+#### Demo 1: [translate:తెలుగు] (Telugu) to  (Kannada)
+
+[Watch Video](Video_demo\streamlit_ui_demo.mp4)
+
+
+---
 
 ## 🛠️ Tech Stack
 
