@@ -391,7 +391,7 @@ with col1:
     st.markdown(f"**Translation to {st.session_state.target_lang}:**")
     st.markdown(f"""
     <div style="background-color: #ffffff; padding: 15px; border-radius: 8px; border: 2px solid #1a5f7a; min-height: 90px; color: #000000; font-size: 16px; font-weight: 500;">
-    {st.session_state.source_translation if st.session_state.target_translation else '<em style="color: #999;">Translation will appear here...</em>'}
+    {st.session_state.source_translation if st.session_state.source_translation else '<em style="color: #999;">Translation will appear here...</em>'}
     </div>
     """, unsafe_allow_html=True)
     
@@ -425,7 +425,7 @@ with col2:
     st.markdown(f"**Translation to {st.session_state.target_lang}:**")
     st.markdown(f"""
     <div style="background-color: #ffffff; padding: 15px; border-radius: 8px; border: 2px solid #1a5f7a; min-height: 90px; color: #000000; font-size: 16px; font-weight: 500;">
-    {st.session_state.target_translation if st.session_state.source_translation else '<em style="color: #999;">Translation will appear here...</em>'}
+    {st.session_state.target_translation if st.session_state.target_translation else '<em style="color: #999;">Translation will appear here...</em>'}
     </div>
     """, unsafe_allow_html=True)
     
