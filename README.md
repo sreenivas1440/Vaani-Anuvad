@@ -48,7 +48,7 @@ Perfect for multilingual teams, businesses, educational institutions, and indivi
 
 #### Demo 1: [translate:తెలుగు] (Telugu) to  (Kannada)
 
-[Watch Video](Video_demo\streamlit_ui_demo.mp4)
+watch demo in video demo
 
 
 ---
